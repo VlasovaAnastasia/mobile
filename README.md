@@ -2,7 +2,7 @@
 Здесь представлена вся тестовая документация, созданная в ходе тестирования мобильного приложения "Shopping List".  
 Итоги тестирования отражены в Отчете о тестировании.
 
-С целью перехвата и изменения трафика с веб-приложения DemoShopping на смартфоне была проведена работа в сниффере Charles Proxy
+С целью перехвата и изменения трафика с веб-приложения DemoShopping на смартфоне, была проведена работа в сниффере Charles Proxy
 
 - Чек-лист для тестирования мобильного приложения "Shopping List" https://docs.google.com/spreadsheets/d/1Bv6t7oHG2aJZPOEoGn8XOoG71b83jIE5L2zmv-WNS70/edit?usp=sharing
 - Тест-кейсы для тестирования мобильного приложения "Shopping List" (выгрузка в формате PDF из QASE) https://github.com/VlasovaAnastasia/mobile/blob/main/Mobile_app_test-cases_Vlasova_A.pdf
